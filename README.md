@@ -14,6 +14,7 @@ A script written in Python to check number of students in a priority number and 
 ## Installation
 ```bash
 git clone https://github.com/Dipesh3345/Priority-Check.git
+cd Priority-Check/
 pip install -r requirements.txt
 
 ```
